@@ -1,2 +1,3 @@
-# hack-n-lead-2019-template-repository
-The template for Hack'n'Lead 2019. Please fork into your own space and add members of your team so we can see all participants.
+# hack-n-lead-2019-team1 repository
+The challange chosen by the team is the one proposed by Credit Suisse (https://share.nuclino.com/p/HacknLead-2019-Challenges-6o0DigwQEVIL2ZSXrBcY_x). Also the data used was provided by Credit Suisse. We built a predictive model running on Jupyter notebook 
+
